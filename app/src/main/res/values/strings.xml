@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppNote</string>
+    <string name="acerca">acerca</string>
+    <string name="config">configurar</string>
+    <string name="exposiciones">Exposiciones</string>
+    <string name="proyectos">Proyectos</string>
+    <string name="practicas">Practicas</string>
+    <string name="nota">Nota final</string>
+    <string name="guardar">Guardar</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+
+</resources>

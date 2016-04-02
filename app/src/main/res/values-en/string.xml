@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppNote</string>
+    <string name="acerca">About</string>
+    <string name="config">Settings</string>
+    <string name="exposiciones">Expositions</string>
+    <string name="proyectos">Projects</string>
+    <string name="practicas">Practices</string>
+    <string name="nota">Final Grade</string>
+    <string name="guardar">Save</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpiar">Clear</string>
+</resources>
